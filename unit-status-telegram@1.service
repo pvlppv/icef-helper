@@ -1,0 +1,11 @@
+[Unit]
+Description=Unit Status Telegram Service
+After=network.target
+
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/unit-status-telegram.sh %I
+
+[Install]
+WantedBy=multi-user.target

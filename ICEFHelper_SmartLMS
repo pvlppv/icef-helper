@@ -1,0 +1,13 @@
+[Unit]
+Description=ICEFHelper_SmartLMS
+After=syslog.target network.target
+
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /root/bot/files_smartlms.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

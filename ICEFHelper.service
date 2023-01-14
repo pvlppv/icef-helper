@@ -1,0 +1,13 @@
+[Unit]
+Description=ICEFHelper
+After=syslog.target network.target
+OnFailure=unit-status-telegram@%n.service
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /root/bot/app.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
