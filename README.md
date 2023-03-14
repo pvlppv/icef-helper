@@ -8,7 +8,7 @@
 ## About
 Telegram Bot for Higher School of Economics - Internatiоnal Cоllege of Ecоnоmics and Finanсe, that helps students with studying.  
 Based on Python, Aiogram.
-g
+
 ## Features
 🔒 <b>Private access</b>  
 🌐 <b>Automatic registration</b>  
