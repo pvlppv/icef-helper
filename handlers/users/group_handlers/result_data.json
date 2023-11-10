@@ -1,0 +1,2114 @@
+[
+    {
+        "name": "Абреков Михаил Алексеевич",
+        "place": null,
+        "average": 6.4,
+        "min": 6,
+        "percentile": 41,
+        "gpa": 6.575
+    },
+    {
+        "name": "Авалян Артур Карленович",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 54.02,
+        "gpa": 5.9
+    },
+    {
+        "name": "Агаев Кирилл Дмитриевич",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Агеева Екатерина Игоревна",
+        "place": null,
+        "average": 8.8,
+        "min": 7,
+        "percentile": 9.58,
+        "gpa": 8.525
+    },
+    {
+        "name": "Азарова Марья Дмитриевна",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 58.62,
+        "gpa": 5.775
+    },
+    {
+        "name": "Акиева Алина Умаровна",
+        "place": null,
+        "average": 7.6,
+        "min": 7,
+        "percentile": 26.05,
+        "gpa": 7.4
+    },
+    {
+        "name": "Александрин Леонид Леонидович",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 35.63,
+        "gpa": 6.975
+    },
+    {
+        "name": "Алексеев Дмитрий Михайлович",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 87.74,
+        "gpa": 4.475
+    },
+    {
+        "name": "Алиева Елизавета Игоревна",
+        "place": null,
+        "average": 5,
+        "min": 5,
+        "percentile": 78.16,
+        "gpa": 5
+    },
+    {
+        "name": "Аллахвердиева Алия Габилевна",
+        "place": null,
+        "average": 4.2,
+        "min": 2,
+        "percentile": 81.23,
+        "gpa": 4.825
+    },
+    {
+        "name": "Алхазова Диба Вахаевна",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 17.24,
+        "gpa": 8.025
+    },
+    {
+        "name": "Ан Елизавета Алексеевна",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 74.71,
+        "gpa": 5.075
+    },
+    {
+        "name": "Аристархов Степан Владимирович",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 49.81,
+        "gpa": 6.075
+    },
+    {
+        "name": "Арнаутов Иван Сергеевич",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 65.52,
+        "gpa": 5.5
+    },
+    {
+        "name": "Асатрян Давид Каренович",
+        "place": null,
+        "average": 9.2,
+        "min": 9,
+        "percentile": 4.21,
+        "gpa": 9.15
+    },
+    {
+        "name": "Астахова Вера Константиновна",
+        "place": null,
+        "average": 5.6,
+        "min": 5,
+        "percentile": 67.82,
+        "gpa": 5.45
+    },
+    {
+        "name": "Атрошенко Юлия Романовна",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 21.46,
+        "gpa": 7.625
+    },
+    {
+        "name": "Атулян Джаник Джаникович",
+        "place": null,
+        "average": 5.2,
+        "min": 3,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Афанасьев Максим Дмитриевич",
+        "place": null,
+        "average": 4.4,
+        "min": 2,
+        "percentile": 65.52,
+        "gpa": 5.5
+    },
+    {
+        "name": "Ачаповский Александр Васильевич",
+        "place": null,
+        "average": 4.4,
+        "min": 3,
+        "percentile": 70.88,
+        "gpa": 5.25
+    },
+    {
+        "name": "Ашмарин Иван Олегович",
+        "place": null,
+        "average": 8.2,
+        "min": 7,
+        "percentile": 14.94,
+        "gpa": 8.15
+    },
+    {
+        "name": "Баласанова Аглая Ашотовна",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 26.05,
+        "gpa": 7.4
+    },
+    {
+        "name": "Барунин Платон Александрович",
+        "place": null,
+        "average": 7.8,
+        "min": 6,
+        "percentile": 19.16,
+        "gpa": 7.9
+    },
+    {
+        "name": "Барышев Алексей Сергеевич",
+        "place": null,
+        "average": 6.2,
+        "min": 5,
+        "percentile": 38.31,
+        "gpa": 6.8
+    },
+    {
+        "name": "Батов Игорь Николаевич",
+        "place": null,
+        "average": 7.8,
+        "min": 6,
+        "percentile": 28.74,
+        "gpa": 7.275
+    },
+    {
+        "name": "Белов Глеб Борисович",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 91.95,
+        "gpa": 4.15
+    },
+    {
+        "name": "Береславский Илья Вадимович",
+        "place": null,
+        "average": 2.2,
+        "min": 0,
+        "percentile": 97.32,
+        "gpa": 3.1
+    },
+    {
+        "name": "Битарова Алина Аликовна",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Боголейша Екатерина Геннадьевна",
+        "place": null,
+        "average": 4,
+        "min": 2,
+        "percentile": 84.29,
+        "gpa": 4.675
+    },
+    {
+        "name": "Богоявленский Глеб Владимирович",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 58.62,
+        "gpa": 5.775
+    },
+    {
+        "name": "Болдин Михаил Сергеевич",
+        "place": null,
+        "average": 6,
+        "min": 6,
+        "percentile": 51.72,
+        "gpa": 6
+    },
+    {
+        "name": "Большаков Никита Андреевич",
+        "place": null,
+        "average": 7.75,
+        "min": 6,
+        "percentile": 7.66,
+        "gpa": 8.617647058823529
+    },
+    {
+        "name": "Борисевич Егор Андреевич",
+        "place": null,
+        "average": 1,
+        "min": 0,
+        "percentile": 99.23,
+        "gpa": 0.725
+    },
+    {
+        "name": "Борисов Даниил Дмитриевич",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 59.77,
+        "gpa": 5.75
+    },
+    {
+        "name": "Бошкова Дарья Константиновна",
+        "place": null,
+        "average": 5,
+        "min": 3,
+        "percentile": 68.58,
+        "gpa": 5.4
+    },
+    {
+        "name": "Булади Даниил Берк Бораевич",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 33.72,
+        "gpa": 7.05
+    },
+    {
+        "name": "Бупан-Ходжаева Камолахон Бахромходжаевна",
+        "place": null,
+        "average": 6.2,
+        "min": 5,
+        "percentile": 41.76,
+        "gpa": 6.475
+    },
+    {
+        "name": "Бусыгина Юлия Алексеевна",
+        "place": null,
+        "average": 4.5,
+        "min": 3,
+        "percentile": 67.43,
+        "gpa": 5.470588235294118
+    },
+    {
+        "name": "Вавилов Александр Евгеньевич",
+        "place": null,
+        "average": 9,
+        "min": 8,
+        "percentile": 4.98,
+        "gpa": 9
+    },
+    {
+        "name": "Валиев Булат Ильнурович",
+        "place": null,
+        "average": 4.5,
+        "min": 3,
+        "percentile": 57.85,
+        "gpa": 5.794117647058823
+    },
+    {
+        "name": "Ванцев Иван Витальевич",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 90.42,
+        "gpa": 4.225
+    },
+    {
+        "name": "Ван Цзинхуэй",
+        "place": null,
+        "average": 8,
+        "min": 8,
+        "percentile": 18.01,
+        "gpa": 8
+    },
+    {
+        "name": "Варданян Арман Каренович",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 32.95,
+        "gpa": 7.075
+    },
+    {
+        "name": "Васильев Александр Русланович",
+        "place": null,
+        "average": 7.25,
+        "min": 6,
+        "percentile": 22.99,
+        "gpa": 7.5588235294117645
+    },
+    {
+        "name": "Васильева Татьяна Павловна",
+        "place": null,
+        "average": 7.75,
+        "min": 6,
+        "percentile": 31.8,
+        "gpa": 7.117647058823529
+    },
+    {
+        "name": "Васин Владимир Андреевич",
+        "place": null,
+        "average": 9.75,
+        "min": 9,
+        "percentile": 0.77,
+        "gpa": 9.852941176470589
+    },
+    {
+        "name": "Велашевич Адриан Зоранович",
+        "place": null,
+        "average": 4,
+        "min": 1,
+        "percentile": 70.88,
+        "gpa": 5.25
+    },
+    {
+        "name": "Велибекова Амалия Аслановна",
+        "place": null,
+        "average": 3.75,
+        "min": 3,
+        "percentile": 85.82,
+        "gpa": 4.588235294117647
+    },
+    {
+        "name": "Воеводина Ксения Алексеевна",
+        "place": null,
+        "average": 2.5,
+        "min": 0,
+        "percentile": 86.59,
+        "gpa": 4.529411764705882
+    },
+    {
+        "name": "Волконский Ярослав Евгеньевич",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 62.45,
+        "gpa": 5.65
+    },
+    {
+        "name": "Волобуев Владислав Игоревич",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 21.46,
+        "gpa": 7.625
+    },
+    {
+        "name": "Воронцов Семен Сергеевич",
+        "place": null,
+        "average": 4.75,
+        "min": 3,
+        "percentile": 74.33,
+        "gpa": 5.176470588235294
+    },
+    {
+        "name": "Воропаева Варвара Алексеевна",
+        "place": null,
+        "average": 9.5,
+        "min": 9,
+        "percentile": 1.15,
+        "gpa": 9.676470588235293
+    },
+    {
+        "name": "Высоцкий Семен Сергеевич",
+        "place": null,
+        "average": 4.5,
+        "min": 2,
+        "percentile": 48.66,
+        "gpa": 6.176470588235294
+    },
+    {
+        "name": "Газимагомаев Дени Арбиевич",
+        "place": null,
+        "average": 3,
+        "min": 2,
+        "percentile": 93.1,
+        "gpa": 3.925
+    },
+    {
+        "name": "Гатамова Аминат Гасановна",
+        "place": null,
+        "average": 4.5,
+        "min": 2,
+        "percentile": 77.01,
+        "gpa": 5.029411764705882
+    },
+    {
+        "name": "Герасименко Екатерина Алексеевна",
+        "place": null,
+        "average": 6.75,
+        "min": 5,
+        "percentile": 29.89,
+        "gpa": 7.264705882352941
+    },
+    {
+        "name": "Гильмутдинов Арслан Георгиевич",
+        "place": null,
+        "average": 5.2,
+        "min": 3,
+        "percentile": 65.13,
+        "gpa": 5.525
+    },
+    {
+        "name": "Глухов Сергей Владимирович",
+        "place": null,
+        "average": 7.8,
+        "min": 7,
+        "percentile": 19.54,
+        "gpa": 7.85
+    },
+    {
+        "name": "Голованова Анна Михайловна",
+        "place": null,
+        "average": 9.2,
+        "min": 8,
+        "percentile": 3.83,
+        "gpa": 9.175
+    },
+    {
+        "name": "Головщинский Алексей Константинович",
+        "place": null,
+        "average": 7.8,
+        "min": 6,
+        "percentile": 18.39,
+        "gpa": 7.925
+    },
+    {
+        "name": "Гончаров Мирослав Алексеевич",
+        "place": null,
+        "average": 5.4,
+        "min": 4,
+        "percentile": 62.84,
+        "gpa": 5.625
+    },
+    {
+        "name": "Горбатовская Виктория Александровна",
+        "place": null,
+        "average": 8.4,
+        "min": 7,
+        "percentile": 11.88,
+        "gpa": 8.325
+    },
+    {
+        "name": "Гривко Николай Вячеславович",
+        "place": null,
+        "average": 4.2,
+        "min": 3,
+        "percentile": 81.99,
+        "gpa": 4.8
+    },
+    {
+        "name": "Гурурани Анита Кситиджевна",
+        "place": null,
+        "average": 6.2,
+        "min": 4,
+        "percentile": 37.93,
+        "gpa": 6.825
+    },
+    {
+        "name": "Дворянчиков Николай Сергеевич",
+        "place": null,
+        "average": 6.4,
+        "min": 4,
+        "percentile": 45.59,
+        "gpa": 6.25
+    },
+    {
+        "name": "Дегтярев Григорий Анатольевич",
+        "place": null,
+        "average": 6.8,
+        "min": 5,
+        "percentile": 23.37,
+        "gpa": 7.525
+    },
+    {
+        "name": "Денисова Мария Юрьевна",
+        "place": null,
+        "average": 9.4,
+        "min": 8,
+        "percentile": 3.45,
+        "gpa": 9.25
+    },
+    {
+        "name": "Денисов Андрей Юрьевич",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 47.51,
+        "gpa": 6.2
+    },
+    {
+        "name": "Джумаян Анна Арамовна",
+        "place": null,
+        "average": 4,
+        "min": 2,
+        "percentile": 79.31,
+        "gpa": 4.95
+    },
+    {
+        "name": "Дмитриев Владислав Алексеевич",
+        "place": null,
+        "average": 8.4,
+        "min": 6,
+        "percentile": 7.28,
+        "gpa": 8.65
+    },
+    {
+        "name": "Дорофеева Мария Сергеевна",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 21.46,
+        "gpa": 7.625
+    },
+    {
+        "name": "Дубин Константин Юрьевич",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 49.04,
+        "gpa": 6.15
+    },
+    {
+        "name": "Духовная Виктория Михайловна",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 17.24,
+        "gpa": 8.025
+    },
+    {
+        "name": "Евсеева Татьяна Викторовна",
+        "place": null,
+        "average": 4.4,
+        "min": 3,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Ермолаева Софья Вадимовна",
+        "place": null,
+        "average": 7,
+        "min": 5,
+        "percentile": 26.82,
+        "gpa": 7.375
+    },
+    {
+        "name": "Живалов Гордей Игоревич",
+        "place": null,
+        "average": 5.4,
+        "min": 4,
+        "percentile": 52.49,
+        "gpa": 5.95
+    },
+    {
+        "name": "Жилина Анастасия Андреевна",
+        "place": null,
+        "average": 3.2,
+        "min": 0,
+        "percentile": 95.79,
+        "gpa": 3.425
+    },
+    {
+        "name": "Жилина Анастасия Андреевна",
+        "place": null,
+        "average": 3.2,
+        "min": 0,
+        "percentile": 95.79,
+        "gpa": 3.425
+    },
+    {
+        "name": "Жирнов Арсений Сергеевич",
+        "place": null,
+        "average": 6,
+        "min": 4,
+        "percentile": 50.96,
+        "gpa": 6.025
+    },
+    {
+        "name": "Заикина Арина Романовна",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 69.73,
+        "gpa": 5.325
+    },
+    {
+        "name": "Заикин Иван Андреевич",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 28.74,
+        "gpa": 7.275
+    },
+    {
+        "name": "Зайковская Александра Олеговна",
+        "place": null,
+        "average": 7.6,
+        "min": 6,
+        "percentile": 16.09,
+        "gpa": 8.075
+    },
+    {
+        "name": "Закарян Нарек Ваагнович",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 83.14,
+        "gpa": 4.75
+    },
+    {
+        "name": "Захарова Елизавета Анатольевна",
+        "place": null,
+        "average": 8.8,
+        "min": 7,
+        "percentile": 6.13,
+        "gpa": 8.9
+    },
+    {
+        "name": "Зимин Петр Александрович",
+        "place": null,
+        "average": 7,
+        "min": 5,
+        "percentile": 26.82,
+        "gpa": 7.375
+    },
+    {
+        "name": "Злобин Дмитрий Дмитриевич",
+        "place": null,
+        "average": 6,
+        "min": 4,
+        "percentile": 43.3,
+        "gpa": 6.375
+    },
+    {
+        "name": "Зрячих Екатерина Дмитриевна",
+        "place": null,
+        "average": 4.2,
+        "min": 3,
+        "percentile": 81.99,
+        "gpa": 4.8
+    },
+    {
+        "name": "Ильин Борис Сергеевич",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 67.82,
+        "gpa": 5.45
+    },
+    {
+        "name": "Исаков Иван Алексеевич",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 20.31,
+        "gpa": 7.675
+    },
+    {
+        "name": "Калмыков Даниель",
+        "place": null,
+        "average": 0.6,
+        "min": 0,
+        "percentile": 99.62,
+        "gpa": 0.375
+    },
+    {
+        "name": "Камо Татьяна Кияра Мари",
+        "place": null,
+        "average": 7,
+        "min": 6,
+        "percentile": 20.69,
+        "gpa": 7.65
+    },
+    {
+        "name": "Карапетян Артур Арменович",
+        "place": null,
+        "average": 6,
+        "min": 5,
+        "percentile": 50.19,
+        "gpa": 6.05
+    },
+    {
+        "name": "Каримбаев Мади",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 58.62,
+        "gpa": 5.775
+    },
+    {
+        "name": "Кашкина Анна Алексеевна",
+        "place": null,
+        "average": 4.2,
+        "min": 2,
+        "percentile": 87.74,
+        "gpa": 4.475
+    },
+    {
+        "name": "Кедрин Максим Алексеевич",
+        "place": null,
+        "average": 7.6,
+        "min": 5,
+        "percentile": 16.48,
+        "gpa": 8.05
+    },
+    {
+        "name": "Керимов Руслан Расимович",
+        "place": null,
+        "average": 7.4,
+        "min": 7,
+        "percentile": 30.27,
+        "gpa": 7.25
+    },
+    {
+        "name": "Кирвалидзе Анна",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 41.38,
+        "gpa": 6.55
+    },
+    {
+        "name": "Киров Александр Михайлович",
+        "place": null,
+        "average": 4,
+        "min": 1,
+        "percentile": 89.66,
+        "gpa": 4.275
+    },
+    {
+        "name": "Киселев Георгий Станиславович",
+        "place": null,
+        "average": 8.2,
+        "min": 6,
+        "percentile": 14.94,
+        "gpa": 8.15
+    },
+    {
+        "name": "Клюзко Георгий Владимирович",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 91.19,
+        "gpa": 4.175
+    },
+    {
+        "name": "Клюхин Пётр Андреевич",
+        "place": null,
+        "average": 5.6,
+        "min": 5,
+        "percentile": 50.19,
+        "gpa": 6.05
+    },
+    {
+        "name": "Ковалев Матвей Дмитриевич",
+        "place": null,
+        "average": 6,
+        "min": 5,
+        "percentile": 43.68,
+        "gpa": 6.35
+    },
+    {
+        "name": "Козлобаев Степан Васильевич",
+        "place": null,
+        "average": 3.8,
+        "min": 1,
+        "percentile": 81.23,
+        "gpa": 4.825
+    },
+    {
+        "name": "Козлова Анастасия Юрьевна",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 62.84,
+        "gpa": 5.625
+    },
+    {
+        "name": "Колесникова Наталия Ивановна",
+        "place": null,
+        "average": 6.6,
+        "min": 4,
+        "percentile": 25.29,
+        "gpa": 7.425
+    },
+    {
+        "name": "Колпащикова Мария Алексеевна",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Команов Владислав Андреевич",
+        "place": null,
+        "average": 4,
+        "min": 3,
+        "percentile": 85.44,
+        "gpa": 4.625
+    },
+    {
+        "name": "Комяков Дмитрий Борисович",
+        "place": null,
+        "average": 5.8,
+        "min": 3,
+        "percentile": 37.16,
+        "gpa": 6.875
+    },
+    {
+        "name": "Коновалов Андрей Васильевич",
+        "place": null,
+        "average": 5.8,
+        "min": 5,
+        "percentile": 47.51,
+        "gpa": 6.2
+    },
+    {
+        "name": "Кононов Александр Александрович",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Конюхов Дмитрий Олегович",
+        "place": null,
+        "average": 5,
+        "min": 3,
+        "percentile": 70.11,
+        "gpa": 5.3
+    },
+    {
+        "name": "Король Владислав Сергеевич",
+        "place": null,
+        "average": 5.2,
+        "min": 3,
+        "percentile": 49.43,
+        "gpa": 6.1
+    },
+    {
+        "name": "Коростелев Максим Евгеньевич",
+        "place": null,
+        "average": 6.4,
+        "min": 6,
+        "percentile": 45.59,
+        "gpa": 6.25
+    },
+    {
+        "name": "Коротков Иван Андреевич",
+        "place": null,
+        "average": 2.2,
+        "min": 0,
+        "percentile": 98.47,
+        "gpa": 2.775
+    },
+    {
+        "name": "Костоев Ахмед Адамович",
+        "place": null,
+        "average": 7,
+        "min": 5,
+        "percentile": 33.72,
+        "gpa": 7.05
+    },
+    {
+        "name": "Кривенок Фёдор Сергеевич",
+        "place": null,
+        "average": 4.6,
+        "min": 4,
+        "percentile": 76.25,
+        "gpa": 5.05
+    },
+    {
+        "name": "Кудряшов Андрей Анатольевич",
+        "place": null,
+        "average": 6.8,
+        "min": 5,
+        "percentile": 31.03,
+        "gpa": 7.225
+    },
+    {
+        "name": "Кузнецова Евгения Дмитриевна",
+        "place": null,
+        "average": 4.4,
+        "min": 0,
+        "percentile": 77.39,
+        "gpa": 5.025
+    },
+    {
+        "name": "Кузнецов Дмитрий Иванович",
+        "place": null,
+        "average": 7.6,
+        "min": 7,
+        "percentile": 24.52,
+        "gpa": 7.45
+    },
+    {
+        "name": "Кузнецов Константин Алексеевич",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 11.88,
+        "gpa": 8.325
+    },
+    {
+        "name": "Кузнецов Лука Максимович",
+        "place": null,
+        "average": 7.4,
+        "min": 7,
+        "percentile": 22.61,
+        "gpa": 7.6
+    },
+    {
+        "name": "Куликова Кристина Александровна",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 59.77,
+        "gpa": 5.75
+    },
+    {
+        "name": "Куриленко Максим Иванович",
+        "place": null,
+        "average": 3.4,
+        "min": 2,
+        "percentile": 93.87,
+        "gpa": 3.9
+    },
+    {
+        "name": "Кыльчик Сергей Витальевич",
+        "place": null,
+        "average": 5.6,
+        "min": 0,
+        "percentile": 94.64,
+        "gpa": 3.75
+    },
+    {
+        "name": "Кэмпбелл Филан Конор",
+        "place": null,
+        "average": 9.4,
+        "min": 8,
+        "percentile": 2.68,
+        "gpa": 9.3
+    },
+    {
+        "name": "Лаптиева Лидия Сергеевна",
+        "place": null,
+        "average": 8.4,
+        "min": 8,
+        "percentile": 12.64,
+        "gpa": 8.3
+    },
+    {
+        "name": "Лебедева Полина Олеговна",
+        "place": null,
+        "average": 4.6,
+        "min": 2,
+        "percentile": 59.77,
+        "gpa": 5.75
+    },
+    {
+        "name": "Лебедев Владимир Андреевич",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Левин Иван Штефанович",
+        "place": null,
+        "average": 7.4,
+        "min": 7,
+        "percentile": 28.74,
+        "gpa": 7.275
+    },
+    {
+        "name": "Левин Иван Штефанович",
+        "place": null,
+        "average": 7.4,
+        "min": 7,
+        "percentile": 28.74,
+        "gpa": 7.275
+    },
+    {
+        "name": "Лемешко Даниил Борисович",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 13.03,
+        "gpa": 8.275
+    },
+    {
+        "name": "Линь Данни",
+        "place": null,
+        "average": 5.33,
+        "min": 4,
+        "percentile": 63.6,
+        "gpa": 5.6
+    },
+    {
+        "name": "Лисицын Степан Владимирович",
+        "place": null,
+        "average": 2.6,
+        "min": 2,
+        "percentile": 96.17,
+        "gpa": 3.35
+    },
+    {
+        "name": "Логачева Полина Константиновна",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 69.35,
+        "gpa": 5.35
+    },
+    {
+        "name": "Ломакин Тимофей Сергеевич",
+        "place": null,
+        "average": 9.4,
+        "min": 8,
+        "percentile": 5.75,
+        "gpa": 8.95
+    },
+    {
+        "name": "Лощенко Степан Александрович",
+        "place": null,
+        "average": 2,
+        "min": 0,
+        "percentile": 96.93,
+        "gpa": 3.25
+    },
+    {
+        "name": "Лу Цзянь",
+        "place": null,
+        "average": 2.5,
+        "min": 5,
+        "percentile": 94.64,
+        "gpa": 3.75
+    },
+    {
+        "name": "Лыков Иван Алексеевич",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 67.05,
+        "gpa": 5.475
+    },
+    {
+        "name": "Лю Минлинь",
+        "place": null,
+        "average": 7.6,
+        "min": 6,
+        "percentile": 19.92,
+        "gpa": 7.75
+    },
+    {
+        "name": "Макаров Даниил Игоревич",
+        "place": null,
+        "average": 9.6,
+        "min": 9,
+        "percentile": 2.3,
+        "gpa": 9.425
+    },
+    {
+        "name": "Малахов Егор Сергеевич",
+        "place": null,
+        "average": 6,
+        "min": 5,
+        "percentile": 50.96,
+        "gpa": 6.025
+    },
+    {
+        "name": "Марков Григорий Алексеевич",
+        "place": null,
+        "average": 4.6,
+        "min": 2,
+        "percentile": 62.07,
+        "gpa": 5.675
+    },
+    {
+        "name": "Марковская Анастасия Дмитриевна",
+        "place": null,
+        "average": 5.8,
+        "min": 3,
+        "percentile": 45.21,
+        "gpa": 6.275
+    },
+    {
+        "name": "Мартынишин Степан Алексеевич",
+        "place": null,
+        "average": 6.6,
+        "min": 6,
+        "percentile": 35.25,
+        "gpa": 7.025
+    },
+    {
+        "name": "Матюхина Ксения Константиновна",
+        "place": null,
+        "average": 5.6,
+        "min": 2,
+        "percentile": 60.92,
+        "gpa": 5.7
+    },
+    {
+        "name": "Мачин Семён Игоревич",
+        "place": null,
+        "average": 7.2,
+        "min": 7,
+        "percentile": 24.52,
+        "gpa": 7.45
+    },
+    {
+        "name": "Мелешин Кузьма Никитович",
+        "place": null,
+        "average": 7.6,
+        "min": 6,
+        "percentile": 32.18,
+        "gpa": 7.1
+    },
+    {
+        "name": "Мельникова Александра Алексеевна",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 47.13,
+        "gpa": 6.225
+    },
+    {
+        "name": "Мерзляков Илья Александрович",
+        "place": null,
+        "average": 4.6,
+        "min": 4,
+        "percentile": 83.14,
+        "gpa": 4.75
+    },
+    {
+        "name": "Меринов Григорий Алексеевич",
+        "place": null,
+        "average": 8.8,
+        "min": 8,
+        "percentile": 9.2,
+        "gpa": 8.55
+    },
+    {
+        "name": "Метелкина София Алексеевна",
+        "place": null,
+        "average": 9,
+        "min": 8,
+        "percentile": 4.6,
+        "gpa": 9.025
+    },
+    {
+        "name": "Минина Светлана Андреевна",
+        "place": null,
+        "average": 3.4,
+        "min": 0,
+        "percentile": 89.66,
+        "gpa": 4.275
+    },
+    {
+        "name": "Миняев Иван Сергеевич",
+        "place": null,
+        "average": 8.83,
+        "min": 8,
+        "percentile": 6.51,
+        "gpa": 8.886363636363637
+    },
+    {
+        "name": "Мирзоева Сара Фамилевна",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 86.97,
+        "gpa": 4.525
+    },
+    {
+        "name": "Мисевра Даниэла Олеговна",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 74.71,
+        "gpa": 5.075
+    },
+    {
+        "name": "Михайлов Андрей Дмитриевич",
+        "place": null,
+        "average": 4.8,
+        "min": 3,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Мишин Павел Алексеевич",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 42.53,
+        "gpa": 6.4
+    },
+    {
+        "name": "Моисеев Александр Алексеевич",
+        "place": null,
+        "average": 6.2,
+        "min": 5,
+        "percentile": 32.18,
+        "gpa": 7.1
+    },
+    {
+        "name": "Мукумов Азизжон Муминович",
+        "place": null,
+        "average": 6,
+        "min": 5,
+        "percentile": 60.92,
+        "gpa": 5.7
+    },
+    {
+        "name": "Мухамедияр Ерасыл",
+        "place": null,
+        "average": 8,
+        "min": 5,
+        "percentile": 11.11,
+        "gpa": 8.35
+    },
+    {
+        "name": "Насонов Руслан Денисович",
+        "place": null,
+        "average": 3.6,
+        "min": 2,
+        "percentile": 88.89,
+        "gpa": 4.325
+    },
+    {
+        "name": "Натрошвили Алина Александровна",
+        "place": null,
+        "average": 3.4,
+        "min": 2,
+        "percentile": 92.72,
+        "gpa": 3.95
+    },
+    {
+        "name": "Нджи Мам Исатоу",
+        "place": null,
+        "average": 6.6,
+        "min": 4,
+        "percentile": 31.42,
+        "gpa": 7.125
+    },
+    {
+        "name": "Нейшлос Полина Олеговна",
+        "place": null,
+        "average": 4,
+        "min": 3,
+        "percentile": 88.89,
+        "gpa": 4.325
+    },
+    {
+        "name": "Неронов Вадим Алексеевич",
+        "place": null,
+        "average": 7.4,
+        "min": 7,
+        "percentile": 30.27,
+        "gpa": 7.25
+    },
+    {
+        "name": "Нефедова Марина Дмитриевна",
+        "place": null,
+        "average": 9.4,
+        "min": 9,
+        "percentile": 3.07,
+        "gpa": 9.275
+    },
+    {
+        "name": "Нефедова Марина Дмитриевна",
+        "place": null,
+        "average": 9.4,
+        "min": 9,
+        "percentile": 3.07,
+        "gpa": 9.275
+    },
+    {
+        "name": "Нечепоренко Александр Сергеевич",
+        "place": null,
+        "average": 6.4,
+        "min": 5,
+        "percentile": 36.4,
+        "gpa": 6.925
+    },
+    {
+        "name": "Нордгаймер Владимир",
+        "place": null,
+        "average": 3.4,
+        "min": 2,
+        "percentile": 94.25,
+        "gpa": 3.875
+    },
+    {
+        "name": "Орехова Валерия Викторовна",
+        "place": null,
+        "average": 6,
+        "min": 4,
+        "percentile": 43.68,
+        "gpa": 6.35
+    },
+    {
+        "name": "Орлова София Михайловна",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 74.71,
+        "gpa": 5.075
+    },
+    {
+        "name": "Очев Андрей Аркадьевич",
+        "place": null,
+        "average": 8.2,
+        "min": 7,
+        "percentile": 13.79,
+        "gpa": 8.2
+    },
+    {
+        "name": "Очеретяная Анастасия Алексеевна",
+        "place": null,
+        "average": 9,
+        "min": 7,
+        "percentile": 10.34,
+        "gpa": 8.4
+    },
+    {
+        "name": "Пац Владимир Владимирович",
+        "place": null,
+        "average": 5.4,
+        "min": 4,
+        "percentile": 63.6,
+        "gpa": 5.6
+    },
+    {
+        "name": "Петрова Юлия Александровна",
+        "place": null,
+        "average": 7.6,
+        "min": 7,
+        "percentile": 16.48,
+        "gpa": 8.05
+    },
+    {
+        "name": "Пименов Иван Максимович",
+        "place": null,
+        "average": 6.4,
+        "min": 6,
+        "percentile": 36.78,
+        "gpa": 6.9
+    },
+    {
+        "name": "Плотский Николай Вячеславович",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Позднеева Мария Олеговна",
+        "place": null,
+        "average": 7,
+        "min": 6,
+        "percentile": 28.35,
+        "gpa": 7.325
+    },
+    {
+        "name": "Полинко Алина Геннадьевна",
+        "place": null,
+        "average": 8,
+        "min": 7,
+        "percentile": 20.69,
+        "gpa": 7.65
+    },
+    {
+        "name": "Полищук Тимур Игоревич",
+        "place": null,
+        "average": 8.2,
+        "min": 7,
+        "percentile": 14.18,
+        "gpa": 8.175
+    },
+    {
+        "name": "Пономарева Ульяна Дмитриевна",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 45.59,
+        "gpa": 6.25
+    },
+    {
+        "name": "Попельнюхов Фёдор Сергеевич",
+        "place": null,
+        "average": 4.8,
+        "min": 3,
+        "percentile": 71.65,
+        "gpa": 5.225
+    },
+    {
+        "name": "Попов Богдан Станиславович",
+        "place": null,
+        "average": 6.2,
+        "min": 4,
+        "percentile": 42.15,
+        "gpa": 6.45
+    },
+    {
+        "name": "Прасолова Екатерина Дмитриевна",
+        "place": null,
+        "average": 6.8,
+        "min": 6,
+        "percentile": 37.16,
+        "gpa": 6.875
+    },
+    {
+        "name": "Пугоев Руслан Хасанович",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 80.46,
+        "gpa": 4.875
+    },
+    {
+        "name": "Пудовкина Анастасия Андреевна",
+        "place": null,
+        "average": 5.2,
+        "min": 3,
+        "percentile": 65.52,
+        "gpa": 5.5
+    },
+    {
+        "name": "Рогоцкая Мария Павловна",
+        "place": null,
+        "average": 9.2,
+        "min": 8,
+        "percentile": 1.92,
+        "gpa": 9.5
+    },
+    {
+        "name": "Русяева Анастасия Алексеевна",
+        "place": null,
+        "average": 4,
+        "min": 2,
+        "percentile": 84.67,
+        "gpa": 4.65
+    },
+    {
+        "name": "Сазонова Екатерина Андреевна",
+        "place": null,
+        "average": 5.8,
+        "min": 5,
+        "percentile": 54.02,
+        "gpa": 5.9
+    },
+    {
+        "name": "Самокиш Антон Владимирович",
+        "place": null,
+        "average": 9.8,
+        "min": 9,
+        "percentile": 1.53,
+        "gpa": 9.55
+    },
+    {
+        "name": "Сапрыкин Александр Владимирович",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 72.03,
+        "gpa": 5.2
+    },
+    {
+        "name": "Сарыглар Намчыл Шолбанович",
+        "place": null,
+        "average": 3.5,
+        "min": 2,
+        "percentile": 91.57,
+        "gpa": 4.1521739130434785
+    },
+    {
+        "name": "Саяпин Игорь",
+        "place": null,
+        "average": 3.2,
+        "min": 2,
+        "percentile": 92.34,
+        "gpa": 4.1
+    },
+    {
+        "name": "Семёнова Варвара Артёмовна",
+        "place": null,
+        "average": 4,
+        "min": 3,
+        "percentile": 88.51,
+        "gpa": 4.35
+    },
+    {
+        "name": "Сендова Анастасия Алексеевна",
+        "place": null,
+        "average": 4.8,
+        "min": 0,
+        "percentile": 70.5,
+        "gpa": 5.275
+    },
+    {
+        "name": "Сергеева Анастасия Евгеньевна",
+        "place": null,
+        "average": 2.4,
+        "min": 0,
+        "percentile": 95.4,
+        "gpa": 3.55
+    },
+    {
+        "name": "Сергеев Артемий Александрович",
+        "place": null,
+        "average": 5.8,
+        "min": 2,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Сиротинина Анна Леонидовна",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 53.26,
+        "gpa": 5.925
+    },
+    {
+        "name": "Сиюхов Эльдар Аскербиевич",
+        "place": null,
+        "average": 5,
+        "min": 3,
+        "percentile": 78.93,
+        "gpa": 4.975
+    },
+    {
+        "name": "Скареднов Илья Святославович",
+        "place": null,
+        "average": 3.8,
+        "min": 0,
+        "percentile": 98.85,
+        "gpa": 2.625
+    },
+    {
+        "name": "Слуцкая Изабелла Владимировна",
+        "place": null,
+        "average": 3.2,
+        "min": 0,
+        "percentile": 77.39,
+        "gpa": 5.025
+    },
+    {
+        "name": "Смирнов Артём Валерьевич",
+        "place": null,
+        "average": 6.6,
+        "min": 4,
+        "percentile": 26.82,
+        "gpa": 7.375
+    },
+    {
+        "name": "Смирнов Георгий Александрович",
+        "place": null,
+        "average": 4.8,
+        "min": 3,
+        "percentile": 80.84,
+        "gpa": 4.85
+    },
+    {
+        "name": "Смирнов Глеб Денисович",
+        "place": null,
+        "average": 3.8,
+        "min": 0,
+        "percentile": 86.21,
+        "gpa": 4.55
+    },
+    {
+        "name": "Созинова-Родина Мария Алексеевна",
+        "place": null,
+        "average": 5.6,
+        "min": 4,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Соколова Екатерина Сергеевна",
+        "place": null,
+        "average": 3.8,
+        "min": 2,
+        "percentile": 86.97,
+        "gpa": 4.525
+    },
+    {
+        "name": "Соловьев Георгий Михайлович",
+        "place": null,
+        "average": 7.2,
+        "min": 5,
+        "percentile": 24.14,
+        "gpa": 7.475
+    },
+    {
+        "name": "Сторожевых Елизавета Максимовна",
+        "place": null,
+        "average": 6.6,
+        "min": 6,
+        "percentile": 33.72,
+        "gpa": 7.05
+    },
+    {
+        "name": "Студенникова Мария Сергеевна",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 52.49,
+        "gpa": 5.95
+    },
+    {
+        "name": "Суниева Айсэлла Альбертовна",
+        "place": null,
+        "average": 4.6,
+        "min": 2,
+        "percentile": 74.71,
+        "gpa": 5.075
+    },
+    {
+        "name": "Супрун Антон Дмитриевич",
+        "place": null,
+        "average": 6.4,
+        "min": 5,
+        "percentile": 40.61,
+        "gpa": 6.6
+    },
+    {
+        "name": "Суюнова Асмяр Мамедовна",
+        "place": null,
+        "average": 3.4,
+        "min": 2,
+        "percentile": 90.42,
+        "gpa": 4.225
+    },
+    {
+        "name": "Счастливая Мария Юрьевна",
+        "place": null,
+        "average": 8.4,
+        "min": 8,
+        "percentile": 8.05,
+        "gpa": 8.6
+    },
+    {
+        "name": "Тангиев Идрис Ибрагимович",
+        "place": null,
+        "average": 4.8,
+        "min": 3,
+        "percentile": 64.37,
+        "gpa": 5.55
+    },
+    {
+        "name": "Тевзадзе Давид Юрьевич",
+        "place": null,
+        "average": 2.6,
+        "min": 4,
+        "percentile": 84.67,
+        "gpa": 4.65
+    },
+    {
+        "name": "Текиев Артур Джамбулатович",
+        "place": null,
+        "average": 6.4,
+        "min": 5,
+        "percentile": 40.23,
+        "gpa": 6.625
+    },
+    {
+        "name": "Тимофеева Полина Дмитриевна",
+        "place": null,
+        "average": 9,
+        "min": 9,
+        "percentile": 4.98,
+        "gpa": 9
+    },
+    {
+        "name": "Титаренко Ульяна Олеговна",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 32.95,
+        "gpa": 7.075
+    },
+    {
+        "name": "Титов Георгий Александрович",
+        "place": null,
+        "average": 6,
+        "min": 5,
+        "percentile": 44.83,
+        "gpa": 6.3
+    },
+    {
+        "name": "Ткаченко Ксения Ростиславовна",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 68.58,
+        "gpa": 5.4
+    },
+    {
+        "name": "Тохбергенов Адильжан",
+        "place": null,
+        "average": 4,
+        "min": 2,
+        "percentile": 83.91,
+        "gpa": 4.7
+    },
+    {
+        "name": "Точилина Дарья Сергеевна",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 38.7,
+        "gpa": 6.775
+    },
+    {
+        "name": "Трифонов Никита Игоревич",
+        "place": null,
+        "average": 7.6,
+        "min": 6,
+        "percentile": 11.11,
+        "gpa": 8.35
+    },
+    {
+        "name": "Тронов Александр Андреевич",
+        "place": null,
+        "average": 8.2,
+        "min": 6,
+        "percentile": 6.9,
+        "gpa": 8.85
+    },
+    {
+        "name": "Турнаев Александр",
+        "place": null,
+        "average": 2,
+        "min": 4,
+        "percentile": 98.08,
+        "gpa": 2.857142857142857
+    },
+    {
+        "name": "Туровский Лев Александрович",
+        "place": null,
+        "average": 4.8,
+        "min": 4,
+        "percentile": 80.08,
+        "gpa": 4.9
+    },
+    {
+        "name": "Тюренкова Анастасия Владимировна",
+        "place": null,
+        "average": 5.8,
+        "min": 4,
+        "percentile": 53.26,
+        "gpa": 5.925
+    },
+    {
+        "name": "Уразбахтин Радмир Расихович",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 55.17,
+        "gpa": 5.8
+    },
+    {
+        "name": "Устинова Мария Николаевна",
+        "place": null,
+        "average": 4.6,
+        "min": 3,
+        "percentile": 60.92,
+        "gpa": 5.7
+    },
+    {
+        "name": "Устинов Платон Антонович",
+        "place": null,
+        "average": 7.2,
+        "min": 6,
+        "percentile": 25.29,
+        "gpa": 7.425
+    },
+    {
+        "name": "Фадеева Анна Михайловна",
+        "place": null,
+        "average": 6.4,
+        "min": 5,
+        "percentile": 44.44,
+        "gpa": 6.325
+    },
+    {
+        "name": "Федосимова Яна Владиславовна",
+        "place": null,
+        "average": 8.2,
+        "min": 7,
+        "percentile": 14.18,
+        "gpa": 8.175
+    },
+    {
+        "name": "Филиппов Дмитрий Вадимович",
+        "place": null,
+        "average": 9.8,
+        "min": 9,
+        "percentile": 0.38,
+        "gpa": 9.875
+    },
+    {
+        "name": "Фролов Анатолий Александрович",
+        "place": null,
+        "average": 5.8,
+        "min": 5,
+        "percentile": 54.79,
+        "gpa": 5.85
+    },
+    {
+        "name": "Харитиди Артём Дмитриевич",
+        "place": null,
+        "average": 4.6,
+        "min": 4,
+        "percentile": 76.25,
+        "gpa": 5.05
+    },
+    {
+        "name": "Ходырев Александр Евгеньевич",
+        "place": null,
+        "average": 2.2,
+        "min": 0,
+        "percentile": 97.32,
+        "gpa": 3.1
+    },
+    {
+        "name": "Хохлова Ольга Игоревна",
+        "place": null,
+        "average": 5.4,
+        "min": 3,
+        "percentile": 45.59,
+        "gpa": 6.25
+    },
+    {
+        "name": "Целиков Арсений Дмитриевич",
+        "place": null,
+        "average": 5,
+        "min": 3,
+        "percentile": 52.11,
+        "gpa": 5.975
+    },
+    {
+        "name": "Цепцова Марина Владиславовна",
+        "place": null,
+        "average": 8.2,
+        "min": 7,
+        "percentile": 9.96,
+        "gpa": 8.475
+    },
+    {
+        "name": "Чавушоглу Альп Бату",
+        "place": null,
+        "average": 8.8,
+        "min": 5,
+        "percentile": 8.05,
+        "gpa": 8.6
+    },
+    {
+        "name": "Чернышева Анастасия Алексеевна",
+        "place": null,
+        "average": 7,
+        "min": 6,
+        "percentile": 27.97,
+        "gpa": 7.35
+    },
+    {
+        "name": "Чжу Минсюань",
+        "place": null,
+        "average": 5,
+        "min": 4,
+        "percentile": 78.16,
+        "gpa": 5
+    },
+    {
+        "name": "Чулкова Виктория Евгеньевна",
+        "place": null,
+        "average": 7.2,
+        "min": 4,
+        "percentile": 15.71,
+        "gpa": 8.125
+    },
+    {
+        "name": "Чупраков Алексей Дмитриевич",
+        "place": null,
+        "average": 7.4,
+        "min": 4,
+        "percentile": 13.41,
+        "gpa": 8.225
+    },
+    {
+        "name": "Чуркин Артём Олегович",
+        "place": null,
+        "average": 5.4,
+        "min": 4,
+        "percentile": 47.51,
+        "gpa": 6.2
+    },
+    {
+        "name": "Шаврова Виктория Алексеевна",
+        "place": null,
+        "average": 4.4,
+        "min": 3,
+        "percentile": 79.69,
+        "gpa": 4.925
+    },
+    {
+        "name": "Шаехов Роберт Рустамович",
+        "place": null,
+        "average": 5.2,
+        "min": 4,
+        "percentile": 65.52,
+        "gpa": 5.5
+    },
+    {
+        "name": "Шакиров Эмиль Шамилевич",
+        "place": null,
+        "average": 6.6,
+        "min": 6,
+        "percentile": 39.08,
+        "gpa": 6.725
+    },
+    {
+        "name": "Шаплыко Маргарита Дмитриевна",
+        "place": null,
+        "average": 3.4,
+        "min": 2,
+        "percentile": 93.1,
+        "gpa": 3.925
+    },
+    {
+        "name": "Швачко Елизавета Вячеславовна",
+        "place": null,
+        "average": 2.8,
+        "min": 0,
+        "percentile": 96.55,
+        "gpa": 3.3
+    },
+    {
+        "name": "Шевченко Игорь Дмитриевич",
+        "place": null,
+        "average": 6.6,
+        "min": 5,
+        "percentile": 33.72,
+        "gpa": 7.05
+    },
+    {
+        "name": "Шепилов Кирилл Олегович",
+        "place": null,
+        "average": 5.83,
+        "min": 4,
+        "percentile": 58.24,
+        "gpa": 5.790697674418604
+    },
+    {
+        "name": "Шиварова Анастасия Александровна",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 35.63,
+        "gpa": 6.975
+    },
+    {
+        "name": "Шикова Аида Тимуровна",
+        "place": null,
+        "average": 7.6,
+        "min": 6,
+        "percentile": 10.73,
+        "gpa": 8.375
+    },
+    {
+        "name": "Шишкина Анна Сергеевна",
+        "place": null,
+        "average": 5.8,
+        "min": 5,
+        "percentile": 64.37,
+        "gpa": 5.55
+    },
+    {
+        "name": "Шоцкая Полина Сергеевна",
+        "place": null,
+        "average": 6.4,
+        "min": 4,
+        "percentile": 39.85,
+        "gpa": 6.675
+    },
+    {
+        "name": "Шуляк Артем Александрович",
+        "place": null,
+        "average": 4.2,
+        "min": 3,
+        "percentile": 81.99,
+        "gpa": 4.8
+    },
+    {
+        "name": "Шунин Алексей Александрович",
+        "place": null,
+        "average": 6.6,
+        "min": 6,
+        "percentile": 42.53,
+        "gpa": 6.4
+    },
+    {
+        "name": "Щербинин Евгений",
+        "place": null,
+        "average": 10,
+        "min": 10,
+        "percentile": 0,
+        "gpa": 10
+    },
+    {
+        "name": "Юрков Донат Дмитриевич",
+        "place": null,
+        "average": 7.2,
+        "min": 5,
+        "percentile": 23.75,
+        "gpa": 7.5
+    },
+    {
+        "name": "Яковлев Егор Андреевич",
+        "place": null,
+        "average": 6.6,
+        "min": 6,
+        "percentile": 39.08,
+        "gpa": 6.725
+    },
+    {
+        "name": "Ямамото Александр Сетарович",
+        "place": null,
+        "average": 7.4,
+        "min": 6,
+        "percentile": 18.39,
+        "gpa": 7.925
+    },
+    {
+        "name": "Яскина Полина Сергеевна",
+        "place": null,
+        "average": 8.4,
+        "min": 7,
+        "percentile": 8.81,
+        "gpa": 8.575
+    }
+]

@@ -1,0 +1,2382 @@
+{
+    "lang": "ru",
+    "success": true,
+    "data": [
+        {
+            "id": 696283720,
+            "title": "Абреков Михаил Алексеевич",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 6,
+            "percentil": 41,
+            "gpa": 6.575
+        },
+        {
+            "id": 696232492,
+            "title": "Авалян Артур Карленович",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 54.02,
+            "gpa": 5.9
+        },
+        {
+            "id": 696278123,
+            "title": "Агаев Кирилл Дмитриевич",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696261719,
+            "title": "Агеева Екатерина Игоревна",
+            "place": null,
+            "gradeMid": 8.8,
+            "gradeMin": 7,
+            "percentil": 9.58,
+            "gpa": 8.525
+        },
+        {
+            "id": 696286596,
+            "title": "Азарова Марья Дмитриевна",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 58.62,
+            "gpa": 5.775
+        },
+        {
+            "id": 696241737,
+            "title": "Акиева Алина Умаровна",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 7,
+            "percentil": 26.05,
+            "gpa": 7.4
+        },
+        {
+            "id": 696282788,
+            "title": "Александрин Леонид Леонидович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 35.63,
+            "gpa": 6.975
+        },
+        {
+            "id": 696252425,
+            "title": "Алексеев Дмитрий Михайлович",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 87.74,
+            "gpa": 4.475
+        },
+        {
+            "id": 696305840,
+            "title": "Алиева Елизавета Игоревна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 5,
+            "percentil": 78.16,
+            "gpa": 5
+        },
+        {
+            "id": 696230370,
+            "title": "Аллахвердиева Алия Габилевна",
+            "place": null,
+            "gradeMid": 4.2,
+            "gradeMin": 2,
+            "percentil": 81.23,
+            "gpa": 4.825
+        },
+        {
+            "id": 696255429,
+            "title": "Алхазова Диба Вахаевна",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 17.24,
+            "gpa": 8.025
+        },
+        {
+            "id": 696256945,
+            "title": "Ан Елизавета Алексеевна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 74.71,
+            "gpa": 5.075
+        },
+        {
+            "id": 696311967,
+            "title": "Аристархов Степан Владимирович",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 49.81,
+            "gpa": 6.075
+        },
+        {
+            "id": 696275212,
+            "title": "Арнаутов Иван Сергеевич",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 65.52,
+            "gpa": 5.5
+        },
+        {
+            "id": 696252025,
+            "title": "Асатрян Давид Каренович",
+            "place": null,
+            "gradeMid": 9.2,
+            "gradeMin": 9,
+            "percentil": 4.21,
+            "gpa": 9.15
+        },
+        {
+            "id": 696319245,
+            "title": "Астахова Вера Константиновна",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 5,
+            "percentil": 67.82,
+            "gpa": 5.45
+        },
+        {
+            "id": 696325984,
+            "title": "Атрошенко Юлия Романовна",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 21.46,
+            "gpa": 7.625
+        },
+        {
+            "id": 696250056,
+            "title": "Атулян Джаник Джаникович",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 3,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696286566,
+            "title": "Афанасьев Максим Дмитриевич",
+            "place": null,
+            "gradeMid": 4.4,
+            "gradeMin": 2,
+            "percentil": 65.52,
+            "gpa": 5.5
+        },
+        {
+            "id": 696241805,
+            "title": "Ачаповский Александр Васильевич",
+            "place": null,
+            "gradeMid": 4.4,
+            "gradeMin": 3,
+            "percentil": 70.88,
+            "gpa": 5.25
+        },
+        {
+            "id": 696274345,
+            "title": "Ашмарин Иван Олегович",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 7,
+            "percentil": 14.94,
+            "gpa": 8.15
+        },
+        {
+            "id": 696219900,
+            "title": "Баласанова Аглая Ашотовна",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 26.05,
+            "gpa": 7.4
+        },
+        {
+            "id": 696300146,
+            "title": "Барунин Платон Александрович",
+            "place": null,
+            "gradeMid": 7.8,
+            "gradeMin": 6,
+            "percentil": 19.16,
+            "gpa": 7.9
+        },
+        {
+            "id": 696238573,
+            "title": "Барышев Алексей Сергеевич",
+            "place": null,
+            "gradeMid": 6.2,
+            "gradeMin": 5,
+            "percentil": 38.31,
+            "gpa": 6.8
+        },
+        {
+            "id": 696274139,
+            "title": "Батов Игорь Николаевич",
+            "place": null,
+            "gradeMid": 7.8,
+            "gradeMin": 6,
+            "percentil": 28.74,
+            "gpa": 7.275
+        },
+        {
+            "id": 696269220,
+            "title": "Белов Глеб Борисович",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 91.95,
+            "gpa": 4.15
+        },
+        {
+            "id": 696275959,
+            "title": "Береславский Илья Вадимович",
+            "place": null,
+            "gradeMid": 2.2,
+            "gradeMin": 0,
+            "percentil": 97.32,
+            "gpa": 3.1
+        },
+        {
+            "id": 696220136,
+            "title": "Битарова Алина Аликовна",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696261563,
+            "title": "Боголейша Екатерина Геннадьевна",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 2,
+            "percentil": 84.29,
+            "gpa": 4.675
+        },
+        {
+            "id": 696270262,
+            "title": "Богоявленский Глеб Владимирович",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 58.62,
+            "gpa": 5.775
+        },
+        {
+            "id": 696290840,
+            "title": "Болдин Михаил Сергеевич",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 6,
+            "percentil": 51.72,
+            "gpa": 6
+        },
+        {
+            "id": 696293717,
+            "title": "Большаков Никита Андреевич",
+            "place": null,
+            "gradeMid": 7.75,
+            "gradeMin": 6,
+            "percentil": 7.66,
+            "gpa": 8.617647058823529
+        },
+        {
+            "id": 696257157,
+            "title": "Борисевич Егор Андреевич",
+            "place": null,
+            "gradeMid": 1,
+            "gradeMin": 0,
+            "percentil": 99.23,
+            "gpa": 0.725
+        },
+        {
+            "id": 696250102,
+            "title": "Борисов Даниил Дмитриевич",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 59.77,
+            "gpa": 5.75
+        },
+        {
+            "id": 696252053,
+            "title": "Бошкова Дарья Константиновна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 3,
+            "percentil": 68.58,
+            "gpa": 5.4
+        },
+        {
+            "id": 696249876,
+            "title": "Булади Даниил Берк Бораевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 33.72,
+            "gpa": 7.05
+        },
+        {
+            "id": 696278065,
+            "title": "Бупан-Ходжаева Камолахон Бахромходжаевна",
+            "place": null,
+            "gradeMid": 6.2,
+            "gradeMin": 5,
+            "percentil": 41.76,
+            "gpa": 6.475
+        },
+        {
+            "id": 696324702,
+            "title": "Бусыгина Юлия Алексеевна",
+            "place": null,
+            "gradeMid": 4.5,
+            "gradeMin": 3,
+            "percentil": 67.43,
+            "gpa": 5.470588235294118
+        },
+        {
+            "id": 696230124,
+            "title": "Вавилов Александр Евгеньевич",
+            "place": null,
+            "gradeMid": 9,
+            "gradeMin": 8,
+            "percentil": 4.98,
+            "gpa": 9
+        },
+        {
+            "id": 696246615,
+            "title": "Валиев Булат Ильнурович",
+            "place": null,
+            "gradeMid": 4.5,
+            "gradeMin": 3,
+            "percentil": 57.85,
+            "gpa": 5.794117647058823
+        },
+        {
+            "id": 696276511,
+            "title": "Ванцев Иван Витальевич",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 90.42,
+            "gpa": 4.225
+        },
+        {
+            "id": 696314693,
+            "title": "Ван Цзинхуэй",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 8,
+            "percentil": 18.01,
+            "gpa": 8
+        },
+        {
+            "id": 696233190,
+            "title": "Варданян Арман Каренович",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 32.95,
+            "gpa": 7.075
+        },
+        {
+            "id": 696238235,
+            "title": "Васильев Александр Русланович",
+            "place": null,
+            "gradeMid": 7.25,
+            "gradeMin": 6,
+            "percentil": 22.99,
+            "gpa": 7.5588235294117645
+        },
+        {
+            "id": 696314303,
+            "title": "Васильева Татьяна Павловна",
+            "place": null,
+            "gradeMid": 7.75,
+            "gradeMin": 6,
+            "percentil": 31.8,
+            "gpa": 7.117647058823529
+        },
+        {
+            "id": 696317417,
+            "title": "Васин Владимир Андреевич",
+            "place": null,
+            "gradeMid": 9.75,
+            "gradeMin": 9,
+            "percentil": 0.77,
+            "gpa": 9.852941176470589
+        },
+        {
+            "id": 696246295,
+            "title": "Велашевич Адриан Зоранович",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 1,
+            "percentil": 70.88,
+            "gpa": 5.25
+        },
+        {
+            "id": 696226248,
+            "title": "Велибекова Амалия Аслановна",
+            "place": null,
+            "gradeMid": 3.75,
+            "gradeMin": 3,
+            "percentil": 85.82,
+            "gpa": 4.588235294117647
+        },
+        {
+            "id": 696277961,
+            "title": "Воеводина Ксения Алексеевна",
+            "place": null,
+            "gradeMid": 2.5,
+            "gradeMin": 0,
+            "percentil": 86.59,
+            "gpa": 4.529411764705882
+        },
+        {
+            "id": 696323918,
+            "title": "Волконский Ярослав Евгеньевич",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 62.45,
+            "gpa": 5.65
+        },
+        {
+            "id": 696319195,
+            "title": "Волобуев Владислав Игоревич",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 21.46,
+            "gpa": 7.625
+        },
+        {
+            "id": 696311853,
+            "title": "Воронцов Семен Сергеевич",
+            "place": null,
+            "gradeMid": 4.75,
+            "gradeMin": 3,
+            "percentil": 74.33,
+            "gpa": 5.176470588235294
+        },
+        {
+            "id": 696317476,
+            "title": "Воропаева Варвара Алексеевна",
+            "place": null,
+            "gradeMid": 9.5,
+            "gradeMin": 9,
+            "percentil": 1.15,
+            "gpa": 9.676470588235293
+        },
+        {
+            "id": 696311859,
+            "title": "Высоцкий Семен Сергеевич",
+            "place": null,
+            "gradeMid": 4.5,
+            "gradeMin": 2,
+            "percentil": 48.66,
+            "gpa": 6.176470588235294
+        },
+        {
+            "id": 696247742,
+            "title": "Газимагомаев Дени Арбиевич",
+            "place": null,
+            "gradeMid": 3,
+            "gradeMin": 2,
+            "percentil": 93.1,
+            "gpa": 3.925
+        },
+        {
+            "id": 696230504,
+            "title": "Гатамова Аминат Гасановна",
+            "place": null,
+            "gradeMid": 4.5,
+            "gradeMin": 2,
+            "percentil": 77.01,
+            "gpa": 5.029411764705882
+        },
+        {
+            "id": 696257551,
+            "title": "Герасименко Екатерина Алексеевна",
+            "place": null,
+            "gradeMid": 6.75,
+            "gradeMin": 5,
+            "percentil": 29.89,
+            "gpa": 7.264705882352941
+        },
+        {
+            "id": 696230506,
+            "title": "Гильмутдинов Арслан Георгиевич",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 3,
+            "percentil": 65.13,
+            "gpa": 5.525
+        },
+        {
+            "id": 696312117,
+            "title": "Глухов Сергей Владимирович",
+            "place": null,
+            "gradeMid": 7.8,
+            "gradeMin": 7,
+            "percentil": 19.54,
+            "gpa": 7.85
+        },
+        {
+            "id": 696233932,
+            "title": "Голованова Анна Михайловна",
+            "place": null,
+            "gradeMid": 9.2,
+            "gradeMin": 8,
+            "percentil": 3.83,
+            "gpa": 9.175
+        },
+        {
+            "id": 696232608,
+            "title": "Головщинский Алексей Константинович",
+            "place": null,
+            "gradeMid": 7.8,
+            "gradeMin": 6,
+            "percentil": 18.39,
+            "gpa": 7.925
+        },
+        {
+            "id": 696284369,
+            "title": "Гончаров Мирослав Алексеевич",
+            "place": null,
+            "gradeMid": 5.4,
+            "gradeMin": 4,
+            "percentil": 62.84,
+            "gpa": 5.625
+        },
+        {
+            "id": 696316053,
+            "title": "Горбатовская Виктория Александровна",
+            "place": null,
+            "gradeMid": 8.4,
+            "gradeMin": 7,
+            "percentil": 11.88,
+            "gpa": 8.325
+        },
+        {
+            "id": 696297431,
+            "title": "Гривко Николай Вячеславович",
+            "place": null,
+            "gradeMid": 4.2,
+            "gradeMin": 3,
+            "percentil": 81.99,
+            "gpa": 4.8
+        },
+        {
+            "id": 696232626,
+            "title": "Гурурани Анита Кситиджевна",
+            "place": null,
+            "gradeMid": 6.2,
+            "gradeMin": 4,
+            "percentil": 37.93,
+            "gpa": 6.825
+        },
+        {
+            "id": 696296747,
+            "title": "Дворянчиков Николай Сергеевич",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 4,
+            "percentil": 45.59,
+            "gpa": 6.25
+        },
+        {
+            "id": 696268744,
+            "title": "Дегтярев Григорий Анатольевич",
+            "place": null,
+            "gradeMid": 6.8,
+            "gradeMin": 5,
+            "percentil": 23.37,
+            "gpa": 7.525
+        },
+        {
+            "id": 696293350,
+            "title": "Денисова Мария Юрьевна",
+            "place": null,
+            "gradeMid": 9.4,
+            "gradeMin": 8,
+            "percentil": 3.45,
+            "gpa": 9.25
+        },
+        {
+            "id": 696245589,
+            "title": "Денисов Андрей Юрьевич",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 47.51,
+            "gpa": 6.2
+        },
+        {
+            "id": 696220814,
+            "title": "Джумаян Анна Арамовна",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 2,
+            "percentil": 79.31,
+            "gpa": 4.95
+        },
+        {
+            "id": 696315893,
+            "title": "Дмитриев Владислав Алексеевич",
+            "place": null,
+            "gradeMid": 8.4,
+            "gradeMin": 6,
+            "percentil": 7.28,
+            "gpa": 8.65
+        },
+        {
+            "id": 696290916,
+            "title": "Дорофеева Мария Сергеевна",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 21.46,
+            "gpa": 7.625
+        },
+        {
+            "id": 696281721,
+            "title": "Дубин Константин Юрьевич",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 49.04,
+            "gpa": 6.15
+        },
+        {
+            "id": 696319565,
+            "title": "Духовная Виктория Михайловна",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 17.24,
+            "gpa": 8.025
+        },
+        {
+            "id": 696314845,
+            "title": "Евсеева Татьяна Викторовна",
+            "place": null,
+            "gradeMid": 4.4,
+            "gradeMin": 3,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696312079,
+            "title": "Ермолаева Софья Вадимовна",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 5,
+            "percentil": 26.82,
+            "gpa": 7.375
+        },
+        {
+            "id": 696269600,
+            "title": "Живалов Гордей Игоревич",
+            "place": null,
+            "gradeMid": 5.4,
+            "gradeMin": 4,
+            "percentil": 52.49,
+            "gpa": 5.95
+        },
+        {
+            "id": 696306266,
+            "title": "Жилина Анастасия Андреевна",
+            "place": null,
+            "gradeMid": 3.2,
+            "gradeMin": 0,
+            "percentil": 95.79,
+            "gpa": 3.425
+        },
+        {
+            "id": 696226727,
+            "title": "Жилина Анастасия Андреевна",
+            "place": null,
+            "gradeMid": 3.2,
+            "gradeMin": 0,
+            "percentil": 95.79,
+            "gpa": 3.425
+        },
+        {
+            "id": 696241391,
+            "title": "Жирнов Арсений Сергеевич",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 4,
+            "percentil": 50.96,
+            "gpa": 6.025
+        },
+        {
+            "id": 696238290,
+            "title": "Заикина Арина Романовна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 69.73,
+            "gpa": 5.325
+        },
+        {
+            "id": 696271860,
+            "title": "Заикин Иван Андреевич",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 28.74,
+            "gpa": 7.275
+        },
+        {
+            "id": 696236677,
+            "title": "Зайковская Александра Олеговна",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 6,
+            "percentil": 16.09,
+            "gpa": 8.075
+        },
+        {
+            "id": 696297824,
+            "title": "Закарян Нарек Ваагнович",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 83.14,
+            "gpa": 4.75
+        },
+        {
+            "id": 696259773,
+            "title": "Захарова Елизавета Анатольевна",
+            "place": null,
+            "gradeMid": 8.8,
+            "gradeMin": 7,
+            "percentil": 6.13,
+            "gpa": 8.9
+        },
+        {
+            "id": 696301206,
+            "title": "Зимин Петр Александрович",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 5,
+            "percentil": 26.82,
+            "gpa": 7.375
+        },
+        {
+            "id": 696250897,
+            "title": "Злобин Дмитрий Дмитриевич",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 4,
+            "percentil": 43.3,
+            "gpa": 6.375
+        },
+        {
+            "id": 696260957,
+            "title": "Зрячих Екатерина Дмитриевна",
+            "place": null,
+            "gradeMid": 4.2,
+            "gradeMin": 3,
+            "percentil": 81.99,
+            "gpa": 4.8
+        },
+        {
+            "id": 696246850,
+            "title": "Ильин Борис Сергеевич",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 67.82,
+            "gpa": 5.45
+        },
+        {
+            "id": 696271024,
+            "title": "Исаков Иван Алексеевич",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 20.31,
+            "gpa": 7.675
+        },
+        {
+            "id": 696252011,
+            "title": "Калмыков Даниель",
+            "place": null,
+            "gradeMid": 0.6,
+            "gradeMin": 0,
+            "percentil": 99.62,
+            "gpa": 0.375
+        },
+        {
+            "id": 696313864,
+            "title": "Камо Татьяна Кияра Мари",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 6,
+            "percentil": 20.69,
+            "gpa": 7.65
+        },
+        {
+            "id": 696221826,
+            "title": "Карапетян Артур Арменович",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 5,
+            "percentil": 50.19,
+            "gpa": 6.05
+        },
+        {
+            "id": 696288458,
+            "title": "Каримбаев Мади",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 58.62,
+            "gpa": 5.775
+        },
+        {
+            "id": 696221888,
+            "title": "Кашкина Анна Алексеевна",
+            "place": null,
+            "gradeMid": 4.2,
+            "gradeMin": 2,
+            "percentil": 87.74,
+            "gpa": 4.475
+        },
+        {
+            "id": 696284588,
+            "title": "Кедрин Максим Алексеевич",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 5,
+            "percentil": 16.48,
+            "gpa": 8.05
+        },
+        {
+            "id": 696305095,
+            "title": "Керимов Руслан Расимович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 7,
+            "percentil": 30.27,
+            "gpa": 7.25
+        },
+        {
+            "id": 696232757,
+            "title": "Кирвалидзе Анна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 41.38,
+            "gpa": 6.55
+        },
+        {
+            "id": 696234144,
+            "title": "Киров Александр Михайлович",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 1,
+            "percentil": 89.66,
+            "gpa": 4.275
+        },
+        {
+            "id": 696270128,
+            "title": "Киселев Георгий Станиславович",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 6,
+            "percentil": 14.94,
+            "gpa": 8.15
+        },
+        {
+            "id": 696270306,
+            "title": "Клюзко Георгий Владимирович",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 91.19,
+            "gpa": 4.175
+        },
+        {
+            "id": 696300451,
+            "title": "Клюхин Пётр Андреевич",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 5,
+            "percentil": 50.19,
+            "gpa": 6.05
+        },
+        {
+            "id": 696286805,
+            "title": "Ковалев Матвей Дмитриевич",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 5,
+            "percentil": 43.68,
+            "gpa": 6.35
+        },
+        {
+            "id": 696312255,
+            "title": "Козлобаев Степан Васильевич",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 1,
+            "percentil": 81.23,
+            "gpa": 4.825
+        },
+        {
+            "id": 696245765,
+            "title": "Козлова Анастасия Юрьевна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 62.84,
+            "gpa": 5.625
+        },
+        {
+            "id": 696295524,
+            "title": "Колесникова Наталия Ивановна",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 4,
+            "percentil": 25.29,
+            "gpa": 7.425
+        },
+        {
+            "id": 696284734,
+            "title": "Колпащикова Мария Алексеевна",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696316267,
+            "title": "Команов Владислав Андреевич",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 3,
+            "percentil": 85.44,
+            "gpa": 4.625
+        },
+        {
+            "id": 696249922,
+            "title": "Комяков Дмитрий Борисович",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 3,
+            "percentil": 37.16,
+            "gpa": 6.875
+        },
+        {
+            "id": 696243184,
+            "title": "Коновалов Андрей Васильевич",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 5,
+            "percentil": 47.51,
+            "gpa": 6.2
+        },
+        {
+            "id": 696222411,
+            "title": "Кононов Александр Александрович",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696253329,
+            "title": "Конюхов Дмитрий Олегович",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 3,
+            "percentil": 70.11,
+            "gpa": 5.3
+        },
+        {
+            "id": 696321101,
+            "title": "Король Владислав Сергеевич",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 3,
+            "percentil": 49.43,
+            "gpa": 6.1
+        },
+        {
+            "id": 696287394,
+            "title": "Коростелев Максим Евгеньевич",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 6,
+            "percentil": 45.59,
+            "gpa": 6.25
+        },
+        {
+            "id": 696271172,
+            "title": "Коротков Иван Андреевич",
+            "place": null,
+            "gradeMid": 2.2,
+            "gradeMin": 0,
+            "percentil": 98.47,
+            "gpa": 2.775
+        },
+        {
+            "id": 696222513,
+            "title": "Костоев Ахмед Адамович",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 5,
+            "percentil": 33.72,
+            "gpa": 7.05
+        },
+        {
+            "id": 696268488,
+            "title": "Кривенок Фёдор Сергеевич",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 4,
+            "percentil": 76.25,
+            "gpa": 5.05
+        },
+        {
+            "id": 696222726,
+            "title": "Кудряшов Андрей Анатольевич",
+            "place": null,
+            "gradeMid": 6.8,
+            "gradeMin": 5,
+            "percentil": 31.03,
+            "gpa": 7.225
+        },
+        {
+            "id": 696260454,
+            "title": "Кузнецова Евгения Дмитриевна",
+            "place": null,
+            "gradeMid": 4.4,
+            "gradeMin": 0,
+            "percentil": 77.39,
+            "gpa": 5.025
+        },
+        {
+            "id": 696251691,
+            "title": "Кузнецов Дмитрий Иванович",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 7,
+            "percentil": 24.52,
+            "gpa": 7.45
+        },
+        {
+            "id": 696277397,
+            "title": "Кузнецов Константин Алексеевич",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 11.88,
+            "gpa": 8.325
+        },
+        {
+            "id": 696282881,
+            "title": "Кузнецов Лука Максимович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 7,
+            "percentil": 22.61,
+            "gpa": 7.6
+        },
+        {
+            "id": 696277367,
+            "title": "Куликова Кристина Александровна",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 59.77,
+            "gpa": 5.75
+        },
+        {
+            "id": 696288157,
+            "title": "Куриленко Максим Иванович",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 2,
+            "percentil": 93.87,
+            "gpa": 3.9
+        },
+        {
+            "id": 696312285,
+            "title": "Кыльчик Сергей Витальевич",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 0,
+            "percentil": 94.64,
+            "gpa": 3.75
+        },
+        {
+            "id": 696268330,
+            "title": "Кэмпбелл Филан Конор",
+            "place": null,
+            "gradeMid": 9.4,
+            "gradeMin": 8,
+            "percentil": 2.68,
+            "gpa": 9.3
+        },
+        {
+            "id": 696283324,
+            "title": "Лаптиева Лидия Сергеевна",
+            "place": null,
+            "gradeMid": 8.4,
+            "gradeMin": 8,
+            "percentil": 12.64,
+            "gpa": 8.3
+        },
+        {
+            "id": 696305850,
+            "title": "Лебедева Полина Олеговна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 2,
+            "percentil": 59.77,
+            "gpa": 5.75
+        },
+        {
+            "id": 696316471,
+            "title": "Лебедев Владимир Андреевич",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696275508,
+            "title": "Левин Иван Штефанович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 7,
+            "percentil": 28.74,
+            "gpa": 7.275
+        },
+        {
+            "id": 696306420,
+            "title": "Левин Иван Штефанович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 7,
+            "percentil": 28.74,
+            "gpa": 7.275
+        },
+        {
+            "id": 696249924,
+            "title": "Лемешко Даниил Борисович",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 13.03,
+            "gpa": 8.275
+        },
+        {
+            "id": 696252349,
+            "title": "Линь Данни",
+            "place": null,
+            "gradeMid": 5.33,
+            "gradeMin": 4,
+            "percentil": 63.6,
+            "gpa": 5.6
+        },
+        {
+            "id": 696312307,
+            "title": "Лисицын Степан Владимирович",
+            "place": null,
+            "gradeMid": 2.6,
+            "gradeMin": 2,
+            "percentil": 96.17,
+            "gpa": 3.35
+        },
+        {
+            "id": 696301996,
+            "title": "Логачева Полина Константиновна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 69.35,
+            "gpa": 5.35
+        },
+        {
+            "id": 696314553,
+            "title": "Ломакин Тимофей Сергеевич",
+            "place": null,
+            "gradeMid": 9.4,
+            "gradeMin": 8,
+            "percentil": 5.75,
+            "gpa": 8.95
+        },
+        {
+            "id": 696307920,
+            "title": "Лощенко Степан Александрович",
+            "place": null,
+            "gradeMid": 2,
+            "gradeMin": 0,
+            "percentil": 96.93,
+            "gpa": 3.25
+        },
+        {
+            "id": 696276743,
+            "title": "Лу Цзянь",
+            "place": null,
+            "gradeMid": 2.5,
+            "gradeMin": 5,
+            "percentil": 94.64,
+            "gpa": 3.75
+        },
+        {
+            "id": 696271258,
+            "title": "Лыков Иван Алексеевич",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 67.05,
+            "gpa": 5.475
+        },
+        {
+            "id": 696288941,
+            "title": "Лю Минлинь",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 6,
+            "percentil": 19.92,
+            "gpa": 7.75
+        },
+        {
+            "id": 696251719,
+            "title": "Макаров Даниил Игоревич",
+            "place": null,
+            "gradeMid": 9.6,
+            "gradeMin": 9,
+            "percentil": 2.3,
+            "gpa": 9.425
+        },
+        {
+            "id": 696265318,
+            "title": "Малахов Егор Сергеевич",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 5,
+            "percentil": 50.96,
+            "gpa": 6.025
+        },
+        {
+            "id": 696268932,
+            "title": "Марков Григорий Алексеевич",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 2,
+            "percentil": 62.07,
+            "gpa": 5.675
+        },
+        {
+            "id": 696228134,
+            "title": "Марковская Анастасия Дмитриевна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 3,
+            "percentil": 45.21,
+            "gpa": 6.275
+        },
+        {
+            "id": 696307978,
+            "title": "Мартынишин Степан Алексеевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 6,
+            "percentil": 35.25,
+            "gpa": 7.025
+        },
+        {
+            "id": 696279491,
+            "title": "Матюхина Ксения Константиновна",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 2,
+            "percentil": 60.92,
+            "gpa": 5.7
+        },
+        {
+            "id": 696309871,
+            "title": "Мачин Семён Игоревич",
+            "place": null,
+            "gradeMid": 7.2,
+            "gradeMin": 7,
+            "percentil": 24.52,
+            "gpa": 7.45
+        },
+        {
+            "id": 696279943,
+            "title": "Мелешин Кузьма Никитович",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 6,
+            "percentil": 32.18,
+            "gpa": 7.1
+        },
+        {
+            "id": 696223332,
+            "title": "Мельникова Александра Алексеевна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 47.13,
+            "gpa": 6.225
+        },
+        {
+            "id": 696271314,
+            "title": "Мерзляков Илья Александрович",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 4,
+            "percentil": 83.14,
+            "gpa": 4.75
+        },
+        {
+            "id": 696268938,
+            "title": "Меринов Григорий Алексеевич",
+            "place": null,
+            "gradeMid": 8.8,
+            "gradeMin": 8,
+            "percentil": 9.2,
+            "gpa": 8.55
+        },
+        {
+            "id": 696308010,
+            "title": "Метелкина София Алексеевна",
+            "place": null,
+            "gradeMid": 9,
+            "gradeMin": 8,
+            "percentil": 4.6,
+            "gpa": 9.025
+        },
+        {
+            "id": 696308016,
+            "title": "Минина Светлана Андреевна",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 0,
+            "percentil": 89.66,
+            "gpa": 4.275
+        },
+        {
+            "id": 696275646,
+            "title": "Миняев Иван Сергеевич",
+            "place": null,
+            "gradeMid": 8.83,
+            "gradeMin": 8,
+            "percentil": 6.51,
+            "gpa": 8.886363636363637
+        },
+        {
+            "id": 696309329,
+            "title": "Мирзоева Сара Фамилевна",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 86.97,
+            "gpa": 4.525
+        },
+        {
+            "id": 696253385,
+            "title": "Мисевра Даниэла Олеговна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 74.71,
+            "gpa": 5.075
+        },
+        {
+            "id": 696228172,
+            "title": "Михайлов Андрей Дмитриевич",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 3,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696300650,
+            "title": "Мишин Павел Алексеевич",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 42.53,
+            "gpa": 6.4
+        },
+        {
+            "id": 696223490,
+            "title": "Моисеев Александр Алексеевич",
+            "place": null,
+            "gradeMid": 6.2,
+            "gradeMin": 5,
+            "percentil": 32.18,
+            "gpa": 7.1
+        },
+        {
+            "id": 696234427,
+            "title": "Мукумов Азизжон Муминович",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 5,
+            "percentil": 60.92,
+            "gpa": 5.7
+        },
+        {
+            "id": 696263353,
+            "title": "Мухамедияр Ерасыл",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 5,
+            "percentil": 11.11,
+            "gpa": 8.35
+        },
+        {
+            "id": 696304322,
+            "title": "Насонов Руслан Денисович",
+            "place": null,
+            "gradeMid": 3.6,
+            "gradeMin": 2,
+            "percentil": 88.89,
+            "gpa": 4.325
+        },
+        {
+            "id": 696305732,
+            "title": "Натрошвили Алина Александровна",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 2,
+            "percentil": 92.72,
+            "gpa": 3.95
+        },
+        {
+            "id": 696289716,
+            "title": "Нджи Мам Исатоу",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 4,
+            "percentil": 31.42,
+            "gpa": 7.125
+        },
+        {
+            "id": 696302446,
+            "title": "Нейшлос Полина Олеговна",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 3,
+            "percentil": 88.89,
+            "gpa": 4.325
+        },
+        {
+            "id": 696316713,
+            "title": "Неронов Вадим Алексеевич",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 7,
+            "percentil": 30.27,
+            "gpa": 7.25
+        },
+        {
+            "id": 696286926,
+            "title": "Нефедова Марина Дмитриевна",
+            "place": null,
+            "gradeMid": 9.4,
+            "gradeMin": 9,
+            "percentil": 3.07,
+            "gpa": 9.275
+        },
+        {
+            "id": 696306430,
+            "title": "Нефедова Марина Дмитриевна",
+            "place": null,
+            "gradeMid": 9.4,
+            "gradeMin": 9,
+            "percentil": 3.07,
+            "gpa": 9.275
+        },
+        {
+            "id": 696240157,
+            "title": "Нечепоренко Александр Сергеевич",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 5,
+            "percentil": 36.4,
+            "gpa": 6.925
+        },
+        {
+            "id": 696320007,
+            "title": "Нордгаймер Владимир",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 2,
+            "percentil": 94.25,
+            "gpa": 3.875
+        },
+        {
+            "id": 696322553,
+            "title": "Орехова Валерия Викторовна",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 4,
+            "percentil": 43.68,
+            "gpa": 6.35
+        },
+        {
+            "id": 696310532,
+            "title": "Орлова София Михайловна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 74.71,
+            "gpa": 5.075
+        },
+        {
+            "id": 696223850,
+            "title": "Очев Андрей Аркадьевич",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 7,
+            "percentil": 13.79,
+            "gpa": 8.2
+        },
+        {
+            "id": 696223848,
+            "title": "Очеретяная Анастасия Алексеевна",
+            "place": null,
+            "gradeMid": 9,
+            "gradeMin": 7,
+            "percentil": 10.34,
+            "gpa": 8.4
+        },
+        {
+            "id": 696322581,
+            "title": "Пац Владимир Владимирович",
+            "place": null,
+            "gradeMid": 5.4,
+            "gradeMin": 4,
+            "percentil": 63.6,
+            "gpa": 5.6
+        },
+        {
+            "id": 696324940,
+            "title": "Петрова Юлия Александровна",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 7,
+            "percentil": 16.48,
+            "gpa": 8.05
+        },
+        {
+            "id": 696273927,
+            "title": "Пименов Иван Максимович",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 6,
+            "percentil": 36.78,
+            "gpa": 6.9
+        },
+        {
+            "id": 696297645,
+            "title": "Плотский Николай Вячеславович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696290124,
+            "title": "Позднеева Мария Олеговна",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 6,
+            "percentil": 28.35,
+            "gpa": 7.325
+        },
+        {
+            "id": 696230696,
+            "title": "Полинко Алина Геннадьевна",
+            "place": null,
+            "gradeMid": 8,
+            "gradeMin": 7,
+            "percentil": 20.69,
+            "gpa": 7.65
+        },
+        {
+            "id": 696313801,
+            "title": "Полищук Тимур Игоревич",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 7,
+            "percentil": 14.18,
+            "gpa": 8.175
+        },
+        {
+            "id": 696315345,
+            "title": "Пономарева Ульяна Дмитриевна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 45.59,
+            "gpa": 6.25
+        },
+        {
+            "id": 696268502,
+            "title": "Попельнюхов Фёдор Сергеевич",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 3,
+            "percentil": 71.65,
+            "gpa": 5.225
+        },
+        {
+            "id": 696246864,
+            "title": "Попов Богдан Станиславович",
+            "place": null,
+            "gradeMid": 6.2,
+            "gradeMin": 4,
+            "percentil": 42.15,
+            "gpa": 6.45
+        },
+        {
+            "id": 696260645,
+            "title": "Прасолова Екатерина Дмитриевна",
+            "place": null,
+            "gradeMid": 6.8,
+            "gradeMin": 6,
+            "percentil": 37.16,
+            "gpa": 6.875
+        },
+        {
+            "id": 696304664,
+            "title": "Пугоев Руслан Хасанович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 80.46,
+            "gpa": 4.875
+        },
+        {
+            "id": 696224410,
+            "title": "Пудовкина Анастасия Андреевна",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 3,
+            "percentil": 65.52,
+            "gpa": 5.5
+        },
+        {
+            "id": 696290400,
+            "title": "Рогоцкая Мария Павловна",
+            "place": null,
+            "gradeMid": 9.2,
+            "gradeMin": 8,
+            "percentil": 1.92,
+            "gpa": 9.5
+        },
+        {
+            "id": 696224632,
+            "title": "Русяева Анастасия Алексеевна",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 2,
+            "percentil": 84.67,
+            "gpa": 4.65
+        },
+        {
+            "id": 696259007,
+            "title": "Сазонова Екатерина Андреевна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 5,
+            "percentil": 54.02,
+            "gpa": 5.9
+        },
+        {
+            "id": 696244445,
+            "title": "Самокиш Антон Владимирович",
+            "place": null,
+            "gradeMid": 9.8,
+            "gradeMin": 9,
+            "percentil": 1.53,
+            "gpa": 9.55
+        },
+        {
+            "id": 696244459,
+            "title": "Сапрыкин Александр Владимирович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 72.03,
+            "gpa": 5.2
+        },
+        {
+            "id": 696296823,
+            "title": "Сарыглар Намчыл Шолбанович",
+            "place": null,
+            "gradeMid": 3.5,
+            "gradeMin": 2,
+            "percentil": 91.57,
+            "gpa": 4.1521739130434785
+        },
+        {
+            "id": 696275224,
+            "title": "Саяпин Игорь",
+            "place": null,
+            "gradeMid": 3.2,
+            "gradeMin": 2,
+            "percentil": 92.34,
+            "gpa": 4.1
+        },
+        {
+            "id": 696317089,
+            "title": "Семёнова Варвара Артёмовна",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 3,
+            "percentil": 88.51,
+            "gpa": 4.35
+        },
+        {
+            "id": 696224898,
+            "title": "Сендова Анастасия Алексеевна",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 0,
+            "percentil": 70.5,
+            "gpa": 5.275
+        },
+        {
+            "id": 696229912,
+            "title": "Сергеева Анастасия Евгеньевна",
+            "place": null,
+            "gradeMid": 2.4,
+            "gradeMin": 0,
+            "percentil": 95.4,
+            "gpa": 3.55
+        },
+        {
+            "id": 696224924,
+            "title": "Сергеев Артемий Александрович",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 2,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696233464,
+            "title": "Сиротинина Анна Леонидовна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 53.26,
+            "gpa": 5.925
+        },
+        {
+            "id": 696259251,
+            "title": "Сиюхов Эльдар Аскербиевич",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 3,
+            "percentil": 78.93,
+            "gpa": 4.975
+        },
+        {
+            "id": 696275778,
+            "title": "Скареднов Илья Святославович",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 0,
+            "percentil": 98.85,
+            "gpa": 2.625
+        },
+        {
+            "id": 696276437,
+            "title": "Слуцкая Изабелла Владимировна",
+            "place": null,
+            "gradeMid": 3.2,
+            "gradeMin": 0,
+            "percentil": 77.39,
+            "gpa": 5.025
+        },
+        {
+            "id": 696244743,
+            "title": "Смирнов Артём Валерьевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 4,
+            "percentil": 26.82,
+            "gpa": 7.375
+        },
+        {
+            "id": 696269116,
+            "title": "Смирнов Георгий Александрович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 3,
+            "percentil": 80.84,
+            "gpa": 4.85
+        },
+        {
+            "id": 696269308,
+            "title": "Смирнов Глеб Денисович",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 0,
+            "percentil": 86.21,
+            "gpa": 4.55
+        },
+        {
+            "id": 696285946,
+            "title": "Созинова-Родина Мария Алексеевна",
+            "place": null,
+            "gradeMid": 5.6,
+            "gradeMin": 4,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696265752,
+            "title": "Соколова Екатерина Сергеевна",
+            "place": null,
+            "gradeMid": 3.8,
+            "gradeMin": 2,
+            "percentil": 86.97,
+            "gpa": 4.525
+        },
+        {
+            "id": 696269780,
+            "title": "Соловьев Георгий Михайлович",
+            "place": null,
+            "gradeMid": 7.2,
+            "gradeMin": 5,
+            "percentil": 24.14,
+            "gpa": 7.475
+        },
+        {
+            "id": 696263297,
+            "title": "Сторожевых Елизавета Максимовна",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 6,
+            "percentil": 33.72,
+            "gpa": 7.05
+        },
+        {
+            "id": 696291725,
+            "title": "Студенникова Мария Сергеевна",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 52.49,
+            "gpa": 5.95
+        },
+        {
+            "id": 696306875,
+            "title": "Суниева Айсэлла Альбертовна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 2,
+            "percentil": 74.71,
+            "gpa": 5.075
+        },
+        {
+            "id": 696228772,
+            "title": "Супрун Антон Дмитриевич",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 5,
+            "percentil": 40.61,
+            "gpa": 6.6
+        },
+        {
+            "id": 696234879,
+            "title": "Суюнова Асмяр Мамедовна",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 2,
+            "percentil": 90.42,
+            "gpa": 4.225
+        },
+        {
+            "id": 696293522,
+            "title": "Счастливая Мария Юрьевна",
+            "place": null,
+            "gradeMid": 8.4,
+            "gradeMin": 8,
+            "percentil": 8.05,
+            "gpa": 8.6
+        },
+        {
+            "id": 696273014,
+            "title": "Тангиев Идрис Ибрагимович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 3,
+            "percentil": 64.37,
+            "gpa": 5.55
+        },
+        {
+            "id": 696256815,
+            "title": "Тевзадзе Давид Юрьевич",
+            "place": null,
+            "gradeMid": 2.6,
+            "gradeMin": 4,
+            "percentil": 84.67,
+            "gpa": 4.65
+        },
+        {
+            "id": 696228816,
+            "title": "Текиев Артур Джамбулатович",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 5,
+            "percentil": 40.23,
+            "gpa": 6.625
+        },
+        {
+            "id": 696301468,
+            "title": "Тимофеева Полина Дмитриевна",
+            "place": null,
+            "gradeMid": 9,
+            "gradeMin": 9,
+            "percentil": 4.98,
+            "gpa": 9
+        },
+        {
+            "id": 696315479,
+            "title": "Титаренко Ульяна Олеговна",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 32.95,
+            "gpa": 7.075
+        },
+        {
+            "id": 696269152,
+            "title": "Титов Георгий Александрович",
+            "place": null,
+            "gradeMid": 6,
+            "gradeMin": 5,
+            "percentil": 44.83,
+            "gpa": 6.3
+        },
+        {
+            "id": 696280447,
+            "title": "Ткаченко Ксения Ростиславовна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 68.58,
+            "gpa": 5.4
+        },
+        {
+            "id": 696241625,
+            "title": "Тохбергенов Адильжан",
+            "place": null,
+            "gradeMid": 4,
+            "gradeMin": 2,
+            "percentil": 83.91,
+            "gpa": 4.7
+        },
+        {
+            "id": 696255157,
+            "title": "Точилина Дарья Сергеевна",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 38.7,
+            "gpa": 6.775
+        },
+        {
+            "id": 696295620,
+            "title": "Трифонов Никита Игоревич",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 6,
+            "percentil": 11.11,
+            "gpa": 8.35
+        },
+        {
+            "id": 696226010,
+            "title": "Тронов Александр Андреевич",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 6,
+            "percentil": 6.9,
+            "gpa": 8.85
+        },
+        {
+            "id": 696241717,
+            "title": "Турнаев Александр",
+            "place": null,
+            "gradeMid": 2,
+            "gradeMin": 4,
+            "percentil": 98.08,
+            "gpa": 2.857142857142857
+        },
+        {
+            "id": 696282268,
+            "title": "Туровский Лев Александрович",
+            "place": null,
+            "gradeMid": 4.8,
+            "gradeMin": 4,
+            "percentil": 80.08,
+            "gpa": 4.9
+        },
+        {
+            "id": 696245041,
+            "title": "Тюренкова Анастасия Владимировна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 4,
+            "percentil": 53.26,
+            "gpa": 5.925
+        },
+        {
+            "id": 696305237,
+            "title": "Уразбахтин Радмир Расихович",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 55.17,
+            "gpa": 5.8
+        },
+        {
+            "id": 696289890,
+            "title": "Устинова Мария Николаевна",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 3,
+            "percentil": 60.92,
+            "gpa": 5.7
+        },
+        {
+            "id": 696301114,
+            "title": "Устинов Платон Антонович",
+            "place": null,
+            "gradeMid": 7.2,
+            "gradeMin": 6,
+            "percentil": 25.29,
+            "gpa": 7.425
+        },
+        {
+            "id": 696233852,
+            "title": "Фадеева Анна Михайловна",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 5,
+            "percentil": 44.44,
+            "gpa": 6.325
+        },
+        {
+            "id": 696324403,
+            "title": "Федосимова Яна Владиславовна",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 7,
+            "percentil": 14.18,
+            "gpa": 8.175
+        },
+        {
+            "id": 696255699,
+            "title": "Филиппов Дмитрий Вадимович",
+            "place": null,
+            "gradeMid": 9.8,
+            "gradeMin": 9,
+            "percentil": 0.38,
+            "gpa": 9.875
+        },
+        {
+            "id": 696221112,
+            "title": "Фролов Анатолий Александрович",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 5,
+            "percentil": 54.79,
+            "gpa": 5.85
+        },
+        {
+            "id": 696227774,
+            "title": "Харитиди Артём Дмитриевич",
+            "place": null,
+            "gradeMid": 4.6,
+            "gradeMin": 4,
+            "percentil": 76.25,
+            "gpa": 5.05
+        },
+        {
+            "id": 696229486,
+            "title": "Ходырев Александр Евгеньевич",
+            "place": null,
+            "gradeMid": 2.2,
+            "gradeMin": 0,
+            "percentil": 97.32,
+            "gpa": 3.1
+        },
+        {
+            "id": 696298856,
+            "title": "Хохлова Ольга Игоревна",
+            "place": null,
+            "gradeMid": 5.4,
+            "gradeMin": 3,
+            "percentil": 45.59,
+            "gpa": 6.25
+        },
+        {
+            "id": 696228860,
+            "title": "Целиков Арсений Дмитриевич",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 3,
+            "percentil": 52.11,
+            "gpa": 5.975
+        },
+        {
+            "id": 696293156,
+            "title": "Цепцова Марина Владиславовна",
+            "place": null,
+            "gradeMid": 8.2,
+            "gradeMin": 7,
+            "percentil": 9.96,
+            "gpa": 8.475
+        },
+        {
+            "id": 696227157,
+            "title": "Чавушоглу Альп Бату",
+            "place": null,
+            "gradeMid": 8.8,
+            "gradeMin": 5,
+            "percentil": 8.05,
+            "gpa": 8.6
+        },
+        {
+            "id": 696220472,
+            "title": "Чернышева Анастасия Алексеевна",
+            "place": null,
+            "gradeMid": 7,
+            "gradeMin": 6,
+            "percentil": 27.97,
+            "gpa": 7.35
+        },
+        {
+            "id": 696286556,
+            "title": "Чжу Минсюань",
+            "place": null,
+            "gradeMid": 5,
+            "gradeMin": 4,
+            "percentil": 78.16,
+            "gpa": 5
+        },
+        {
+            "id": 696318333,
+            "title": "Чулкова Виктория Евгеньевна",
+            "place": null,
+            "gradeMid": 7.2,
+            "gradeMin": 4,
+            "percentil": 15.71,
+            "gpa": 8.125
+        },
+        {
+            "id": 696227440,
+            "title": "Чупраков Алексей Дмитриевич",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 4,
+            "percentil": 13.41,
+            "gpa": 8.225
+        },
+        {
+            "id": 696235939,
+            "title": "Чуркин Артём Олегович",
+            "place": null,
+            "gradeMid": 5.4,
+            "gradeMin": 4,
+            "percentil": 47.51,
+            "gpa": 6.2
+        },
+        {
+            "id": 696317121,
+            "title": "Шаврова Виктория Алексеевна",
+            "place": null,
+            "gradeMid": 4.4,
+            "gradeMin": 3,
+            "percentil": 79.69,
+            "gpa": 4.925
+        },
+        {
+            "id": 696305215,
+            "title": "Шаехов Роберт Рустамович",
+            "place": null,
+            "gradeMid": 5.2,
+            "gradeMin": 4,
+            "percentil": 65.52,
+            "gpa": 5.5
+        },
+        {
+            "id": 696265033,
+            "title": "Шакиров Эмиль Шамилевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 6,
+            "percentil": 39.08,
+            "gpa": 6.725
+        },
+        {
+            "id": 696287055,
+            "title": "Шаплыко Маргарита Дмитриевна",
+            "place": null,
+            "gradeMid": 3.4,
+            "gradeMin": 2,
+            "percentil": 93.1,
+            "gpa": 3.925
+        },
+        {
+            "id": 696267300,
+            "title": "Швачко Елизавета Вячеславовна",
+            "place": null,
+            "gradeMid": 2.8,
+            "gradeMin": 0,
+            "percentil": 96.55,
+            "gpa": 3.3
+        },
+        {
+            "id": 696272210,
+            "title": "Шевченко Игорь Дмитриевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 5,
+            "percentil": 33.72,
+            "gpa": 7.05
+        },
+        {
+            "id": 696306831,
+            "title": "Шепилов Кирилл Олегович",
+            "place": null,
+            "gradeMid": 5.83,
+            "gradeMin": 4,
+            "percentil": 58.24,
+            "gpa": 5.790697674418604
+        },
+        {
+            "id": 696225126,
+            "title": "Шиварова Анастасия Александровна",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 35.63,
+            "gpa": 6.975
+        },
+        {
+            "id": 696241675,
+            "title": "Шикова Аида Тимуровна",
+            "place": null,
+            "gradeMid": 7.6,
+            "gradeMin": 6,
+            "percentil": 10.73,
+            "gpa": 8.375
+        },
+        {
+            "id": 696240773,
+            "title": "Шишкина Анна Сергеевна",
+            "place": null,
+            "gradeMid": 5.8,
+            "gradeMin": 5,
+            "percentil": 64.37,
+            "gpa": 5.55
+        },
+        {
+            "id": 696303082,
+            "title": "Шоцкая Полина Сергеевна",
+            "place": null,
+            "gradeMid": 6.4,
+            "gradeMin": 4,
+            "percentil": 39.85,
+            "gpa": 6.675
+        },
+        {
+            "id": 696225188,
+            "title": "Шуляк Артем Александрович",
+            "place": null,
+            "gradeMid": 4.2,
+            "gradeMin": 3,
+            "percentil": 81.99,
+            "gpa": 4.8
+        },
+        {
+            "id": 696225198,
+            "title": "Шунин Алексей Александрович",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 6,
+            "percentil": 42.53,
+            "gpa": 6.4
+        },
+        {
+            "id": 696264812,
+            "title": "Щербинин Евгений",
+            "place": null,
+            "gradeMid": 10,
+            "gradeMin": 10,
+            "percentil": 0,
+            "gpa": 10
+        },
+        {
+            "id": 696250863,
+            "title": "Юрков Донат Дмитриевич",
+            "place": null,
+            "gradeMid": 7.2,
+            "gradeMin": 5,
+            "percentil": 23.75,
+            "gpa": 7.5
+        },
+        {
+            "id": 696259719,
+            "title": "Яковлев Егор Андреевич",
+            "place": null,
+            "gradeMid": 6.6,
+            "gradeMin": 6,
+            "percentil": 39.08,
+            "gpa": 6.725
+        },
+        {
+            "id": 696241329,
+            "title": "Ямамото Александр Сетарович",
+            "place": null,
+            "gradeMid": 7.4,
+            "gradeMin": 6,
+            "percentil": 18.39,
+            "gpa": 7.925
+        },
+        {
+            "id": 696303183,
+            "title": "Яскина Полина Сергеевна",
+            "place": null,
+            "gradeMid": 8.4,
+            "gradeMin": 7,
+            "percentil": 8.81,
+            "gpa": 8.575
+        }
+    ]
+}
