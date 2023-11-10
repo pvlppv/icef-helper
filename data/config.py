@@ -6,18 +6,15 @@ load_dotenv()
 BOT_TOKEN = str(os.getenv("BOT_TOKEN"))
 
 admins = [
-    384993580,
+    0,
 ]
 
 moderators = [
-    384993580,
-    1077180787
+    0,
+    0
 ]
-# me - 384993580
-# 2 acc - 5432466949
-# katya - 1077180787
 
-admin = 384993580
+admin = 0
 
 first_subscribers = [
 
